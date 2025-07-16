@@ -13,8 +13,8 @@ The app lets users upload an MRI image and instantly see a predicted tumor type 
 
 ## 🚀 Live Demo
 
-[👉 Click Here to Launch the App](https://share.streamlit.io/)  
-_(Replace with your actual Streamlit Cloud link after deployment)_
+[👉 Click Here to Launch the App]()  
+
 
 ---
 
