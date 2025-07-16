@@ -13,7 +13,7 @@ The app lets users upload an MRI image and instantly see a predicted tumor type 
 
 ## 🚀 Live Demo
 
-[👉 Click Here to Launch the App]()  
+[👉 Click Here to Launch the App](https://app-app-for-brain-tumor-mri-classification-myso5pmwjkkwn6a4cxw.streamlit.app/)  
 
 
 ---
